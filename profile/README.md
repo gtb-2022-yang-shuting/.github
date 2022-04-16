@@ -3,8 +3,8 @@
   
   And then, let me use some words and pictures to introduce some basic information and interesting experiences to you.
 
-
-![1264574b71596681](https://user-images.githubusercontent.com/103483609/163665129-a616e731-9c15-4932-b815-3dac51a3b39b.jpg =250*400)![B612Kaji_20190913_192320_980](https://user-images.githubusercontent.com/103483609/163665132-9892aa7b-fb31-479d-bd96-ffd330e1e119.jpg =250*400)
+<img src="B612Kaji_20190913_192320_980.jpg" width="30%" />
+<img src="1264574b71596681.jpg" width="30%" />
 
 ## last year show time
 last year, I went to many cities in China and participated plenty of activities.
@@ -27,7 +27,8 @@ forth:Qingdao
 
 
 ![IMG_20210703_115457](https://user-i![IMG_20210703_110451](https://user-images.githubusercontent.com/103483609/163665202-32a5629e-789b-46a5-9e1b-1dce1e4881b5.jpg)
-mages.githubusercontent.com/103483609/163665185-b5b2b99a-7d94-460a-be92-8dc8f24f37c6.jpg)
+
+![IMG_20210703_110451](https://user-images.githubusercontent.com/103483609/163665332-ca1dc150-1856-4042-8d55-e803eafe9724.jpg)
 
 This part is over, if you want to know more storiesabout me, or my journey. 
 
