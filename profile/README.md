@@ -5,7 +5,7 @@
 
 <div align="center">
 <img src="picture/1264574b71596681.jpg" width=40% />
-<img src="picture/B612Kaji_20190913_192320_980.jpg" width=40% />
+<img src="picture/B612Kaji_20190913_192320_980.jpg" alt="me" width=40% />
 </div> 
 
 
